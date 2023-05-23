@@ -12,6 +12,7 @@ header {
     top: 0;
     left: 0;
     z-index: 1;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
 }
 
 .container.desktop {
@@ -34,12 +35,22 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+.container img:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+  
 
 .container h1 {
     font-size: 20px;
     color: #fff;
     font-weight: bold;
+    cursor: pointer;
 }
+
+.container h1:hover {
+    opacity: 0.8;
+  }
 
 main {
     display: flex;
