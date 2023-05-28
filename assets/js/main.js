@@ -13,40 +13,31 @@ document.addEventListener('DOMContentLoaded', function () {
       github: 'https://github.com/nathbalica'
     },
     {
-      imgSrc: './assets/images/integrantes/capa.jpeg',
-      perfilImgSrc: './assets/images/integrantes/int.jpg',
-      nome: 'Mary Smith',
-      profissao: 'Desenvolvedora front-end',
-      descricao: 'Sou uma designer gráfica e desenvolvedora front-end. Tenho paixão por criar interfaces intuitivas e atraentes. Minha experiência abrange design de logotipos, identidade visual, UI/UX e codificação.',
-      linkedin: 'https://www.linkedin.com/in/marysmith/',
-      github: 'https://github.com/marysmith'
+      imgSrc: './assets/images/suzana/capa.jpeg',
+      perfilImgSrc: './assets/images/suzana/suzana.png',
+      nome: 'Suzana Anselmo',
+      profissao: 'Interprete de Libras e professora',
+      descricao: 'Sou uma profissional entusiasmada e determinada a iniciar uma carreira na área de computação em nuvem. Tenho um desejo genuíno de aprender e crescer nesse campo, e uma paixão por tecnologias de nuvem, como Amazon Web Services (AWS) e Microsoft Azure.',
+      linkedin: 'https://www.linkedin.com/in/suzana-anselmo-71a575203/',
+      github: ''
     },
     {
-      imgSrc: './assets/images/integrantes/capa3.jpg',
-      perfilImgSrc: './assets/images/integrantes/int3.jpeg',
-      nome: 'John Doe',
-      profissao: 'Desenvolvedor web',
-      descricao: 'Sou um desenvolvedor web com experiência em front-end e back-end. Trabalhei em diversos projetos, desde sites institucionais até aplicações web complexas. Estou sempre buscando aprender e aprimorar minhas habilidades.',
-      linkedin: 'https://www.linkedin.com/in/johndoe/',
-      github: 'https://github.com/johndoe'
+      imgSrc: './assets/images/Maike/capa3.jpg',
+      perfilImgSrc: './assets/images/Maike/int3.jpeg',
+      nome: 'Maike Josuer',
+      profissao: 'Estudante',
+      descricao: 'Gostaria de colaborar em um ambiente de trabalho onde possa aproveitar a oportunidade e colocar em prática meus conhecimentos em favor da empresa na qual viso integrar, focando sempre o benefício e o crescimento da mesma.',
+      linkedin: 'https://www.linkedin.com/in/maike-sombra/',
+      github: 'https://github.com/Maike-Sombra'
     },
     {
-      imgSrc: './assets/images/integrantes/capa4.jpg',
-      perfilImgSrc: './assets/images/integrantes/int4.jpg',
-      nome: 'Pedro Souza',
-      profissao: 'Designer gráfico',
-      descricao: 'Sou uma designer gráfica e desenvolvedora front-end. Tenho paixão por criar interfaces intuitivas e atraentes. Minha experiência abrange design de logotipos, identidade visual, UI/UX e codificação.',
-      linkedin: 'https://www.linkedin.com/in/marysmith/',
-      github: 'https://github.com/marysmith'
-    },
-    {
-      imgSrc: './assets/images/integrantes/capa5.jpg',
-      perfilImgSrc: './assets/images/integrantes/int5.jpg',
-      nome: 'Gabriel Carvalho',
-      profissao: 'Desenvolvedor',
-      descricao: 'Sou uma designer gráfica e desenvolvedora front-end. Tenho paixão por criar interfaces intuitivas e atraentes. Minha experiência abrange design de logotipos, identidade visual, UI/UX e codificação.',
-      linkedin: 'https://www.linkedin.com/in/marysmith/',
-      github: 'https://github.com/marysmith'
+      imgSrc: './assets/images/felipe/capa4.jpg',
+      perfilImgSrc: './assets/images/felipe/int4.jpg',
+      nome: 'Felipe Lima',
+      profissao: 'Analista de suporte',
+      descricao: 'Analista de suporte com experiência na área técnica de resolução de problema, execução de configurações, reparo em aplicação, com base no problema relatado. Busco conhecer e aprender a implementar estratégias de migração de aplicações para a Cloud.',
+      linkedin: 'https://www.linkedin.com/in/felipe-lima-0841a5166/',
+      github: ''
     }
     // Adicione mais objetos para mais containers aqui
   ];
@@ -58,70 +49,52 @@ document.addEventListener('DOMContentLoaded', function () {
       perfilImgSrc: './assets/images/nath/nathimg.jpg',
       nome: 'Natanaele Balica',
       profissao: 'Desenvolvedora de software',
-      descricao: "I'm a web designer for Fiserv, specializing in web design, graphic design, and UX.",
-      telefone: '123-456-7890',
-      endereco: 'Provo, Utah',
-      email: 'astronaomical@gmail.com',
-      website: 'http://astronaomical.com/',
-      instagram: 'https://www.instagram.com/astronaomical/',
-      github: 'https://www.pinterest.com/astronaomical/',
-      linkedin: 'https://www.linkedin.com/in/naomi-weatherford-758385112/'
+      descricao: "Sou uma engenheira e desenvolvedora de software com experiência em desenvolvimento back-end. Durante meu estágio como desenvolvedora, tive a oportunidade de conhecer e me interessar pela área de computação em nuvem.",
+      telefone: '(61)991581058',
+      endereco: 'Brasília, DF',
+      email: 'natanaelebalic@gmail.com',
+      instagram: 'https://instagram.com/nathbalica?igshid=MzNlNGNkZWQ4Mg==',
+      github: 'https://github.com/nathbalica',
+      linkedin: 'https://www.linkedin.com/in/natanaelebalica/'
     },
     {
-      imgSrc: './assets/images/integrantes/capa.jpeg',
-      perfilImgSrc: './assets/images/integrantes/int.jpg',
-      nome: 'Mary Smith',
-      profissao: 'Desenvolvedora front-end',
-      descricao: 'Sou uma designer gráfica e desenvolvedora front-end. Tenho paixão por criar interfaces intuitivas e atraentes. Minha experiência abrange design de logotipos, identidade visual, UI/UX e codificação.',
-      telefone: '123-456-7890',
-      endereco: 'Provo, Utah',
-      email: 'astronaomical@gmail.com',
-      website: 'http://astronaomical.com/',
-      instagram: 'https://www.instagram.com/astronaomical/',
-      github: 'https://www.pinterest.com/astronaomical/',
-      linkedin: 'https://www.linkedin.com/in/naomi-weatherford-758385112/'
+      imgSrc: './assets/images/suzana/capa.jpeg',
+      perfilImgSrc: './assets/images/suzana/suzana.png',
+      nome: 'Suzana Anselmo',
+      profissao: 'Interprete de Libras e professora',
+      descricao: 'Sou uma profissional entusiasmada e determinada a iniciar uma carreira na área de computação em nuvem. Tenho um desejo genuíno de aprender e crescer nesse campo, e uma paixão por tecnologias de nuvem, como Amazon Web Services (AWS) e Microsoft Azure.',
+      telefone: '(97)999590427',
+      endereco: 'Manaus, Amazonas',
+      email: 'susu.anselmo77@gmail.com',
+      instagram: '',
+      github: '',
+      linkedin: 'https://www.linkedin.com/in/suzana-anselmo-71a575203/'
     },
     {
-      imgSrc: './assets/images/nath/capa.jpg',
-      perfilImgSrc: './assets/images/nath/nathimg.jpg',
-      nome: 'Natanaele Balica',
-      profissao: 'Desenvolvedora de software',
-      descricao: "I'm a web designer for Fiserv, specializing in web design, graphic design, and UX.",
-      telefone: '123-456-7890',
-      endereco: 'Provo, Utah',
-      email: 'astronaomical@gmail.com',
-      website: 'http://astronaomical.com/',
-      instagram: 'https://www.instagram.com/astronaomical/',
-      github: 'https://www.pinterest.com/astronaomical/',
-      linkedin: 'https://www.linkedin.com/in/naomi-weatherford-758385112/'
+      imgSrc: './assets/images/Maike/capa3.jpg',
+      perfilImgSrc: './assets/images/Maike/int3.jpeg',
+      nome: 'Maike Josuer',
+      profissao: 'Estudante',
+      descricao: "Gostaria de colaborar em um ambiente de trabalho onde possa aproveitar a oportunidade e colocar em prática meus conhecimentos em favor da empresa na qual viso integrar, focando sempre o benefício e o crescimento da mesma.",
+      telefone: '(98) 98508-7097',
+      endereco: 'Turu, São Luís - MA',
+      email: 'maikejsn@gmail.com',
+      instagram: '',
+      linkedin: 'https://www.linkedin.com/in/maike-sombra/',
+      github: 'https://github.com/Maike-Sombra'
     },
     {
-      imgSrc: './assets/images/nath/capa.jpg',
-      perfilImgSrc: './assets/images/nath/nathimg.jpg',
-      nome: 'Natanaele Balica',
-      profissao: 'Desenvolvedora de software',
-      descricao: "I'm a web designer for Fiserv, specializing in web design, graphic design, and UX.",
-      telefone: '123-456-7890',
-      endereco: 'Provo, Utah',
-      email: 'astronaomical@gmail.com',
-      website: 'http://astronaomical.com/',
-      instagram: 'https://www.instagram.com/astronaomical/',
-      github: 'https://www.pinterest.com/astronaomical/',
-      linkedin: 'https://www.linkedin.com/in/naomi-weatherford-758385112/'
-    },
-    {
-      imgSrc: './assets/images/nath/capa.jpg',
-      perfilImgSrc: './assets/images/nath/nathimg.jpg',
-      nome: 'Natanaele Balica',
-      profissao: 'Desenvolvedora de software',
-      descricao: "I'm a web designer for Fiserv, specializing in web design, graphic design, and UX.",
-      telefone: '123-456-7890',
-      endereco: 'Provo, Utah',
-      email: 'astronaomical@gmail.com',
-      website: 'http://astronaomical.com/',
-      instagram: 'https://www.instagram.com/astronaomical/',
-      github: 'https://www.pinterest.com/astronaomical/',
-      linkedin: 'https://www.linkedin.com/in/naomi-weatherford-758385112/'
+      imgSrc: './assets/images/felipe/capa4.jpg',
+      perfilImgSrc: './assets/images/felipe/int4.jpg',
+      nome: 'Felipe Lima',
+      profissao: 'Analista de Suporte',
+      descricao: "Analista de suporte com experiência na área técnica de resolução de problema, execução de configurações, reparo em aplicação, com base no problema relatado. Busco conhecer e aprender a implementar estratégias de migração de aplicações para a Cloud.",
+      telefone: '(11) 95364-2889',
+      endereco: 'São Paulo - SP',
+      email: 'felipe_live@outlook.com.br',
+      instagram: '',
+      github: '',
+      linkedin: 'https://www.linkedin.com/in/felipe-lima-0841a5166/'
     }
     // Adicione mais objetos para mais perfis aqui
   ];
@@ -130,36 +103,36 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       experience: [
         {
-          position: "Technical Consultant - Web Design",
-          company: "Fiserv",
-          date: "Apr 2018 - Now"
+          position: "Bootcamp desenvolvimento FullStack",
+          company: "Driven Education",
+          date: "Jan 2023 - Agora"
         },
         {
-          position: "Web Designer",
-          company: "Lynden",
-          date: "Jan 2018 - Apr 2018"
+          position: "Desenvolvedora BackEnd",
+          company: "Atmos Energy",
+          date: "Out 2022 - Mar 2023"
         },
         {
-          position: "Intern - Web Design",
-          company: "Lynden",
-          date: "Aug 2017 - Dec 2017"
+          position: " Estágio em Desenvolvimento BackEnd",
+          company: "Zapay",
+          date: "Out 2021 - Out 2022"
         }
       ],
       education: [
         {
-          degree: "Bachelor of Science in Web Design and Development",
-          institution: "BYU-Idaho",
-          date: "Jan. 2016 - Apr. 2018"
+          degree: "Formação em desenvolvimento backend",
+          institution: "Pubnic",
+          date: "Nov. 2021 - Jun. 2022"
         },
         {
-          degree: "Computer Science",
-          institution: "Edmonds Community College",
-          date: "Sept. 2014 - Dec. 2015"
+          degree: "Engenharia Eletrônica",
+          institution: "Universidade de Brasília",
+          date: "Ago. 2015 - Ago. 2022"
         },
         {
-          degree: "High School",
-          institution: "Henry M. Jackson High School",
-          date: "Jan. 2013 - Jun. 2015"
+          degree: "Ensino Médio",
+          institution: "Manoel Teixeira de Albuquerque",
+          date: "Jan. 2011 - Dez. 2014"
         }
       ],
       programmingSkills: [
@@ -168,7 +141,7 @@ document.addEventListener('DOMContentLoaded', function () {
           percent: 95
         },
         {
-          name: "CSS3 & SCSS",
+          name: "CSS",
           percent: 90
         },
         {
@@ -176,34 +149,51 @@ document.addEventListener('DOMContentLoaded', function () {
           percent: 60
         },
         {
-          name: "jQuery",
+          name: "React",
           percent: 50
         },
         {
-          name: "JSON",
+          name: "Python",
           percent: 40
         },
         {
-          name: "PHP",
+          name: "Flask",
           percent: 55
         },
         {
-          name: "MySQL",
+          name: "Django",
           percent: 40
-        }
+        },
+        {
+          name: "Postgress",
+          percent: 40
+        },
+        {
+          name: "MongoDB",
+          percent: 40
+        },
+        {
+          name: "AWS",
+          percent: 40
+        },
+        {
+          name: "Git e Github",
+          percent: 40
+        },
+        {
+          name: "APIs",
+          percent: 40
+        },
       ],
       certifications: [
         {
-          name: "Illustrator"
+          name: "Fundamentos de AWS, Escola da Nuvem – 2023"
         },
         {
-          name: "Photoshop"
+          name: "Interfaces e Aplicações FrontEnd - 2023"
         },
         {
-          name: "InDesign"
-        },
-        {
-          name: "Dreamweaver"
+          name: "Desenvolvimento backend com Python - 2022"
         }
       ],
       interests: [
@@ -219,18 +209,18 @@ document.addEventListener('DOMContentLoaded', function () {
         },
         {
           iconClass: "movies",
-          icon: "fas fa-film",
-          name: "Movies"
+          icon: "fas fa-laptop-code",
+          name: "Tecnologia"
         },
         {
           iconClass: "music",
-          icon: "fas fa-headphones",
-          name: "Music"
+          icon: "fas fa-bicycle",
+          name: "Ciclismo"
         },
         {
           iconClass: "games",
-          icon: "fas fa-gamepad",
-          name: "Games"
+          icon: "fas fa-cloud",
+          name: "Cloud"
         }
       ],
       pdfPath: "./assets/curriculo1.pdf"
@@ -238,252 +228,161 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       experience: [
         {
-          position: "Technical Consultant - Web Design",
-          company: "Fiserv",
-          date: "Apr 2018 - Now"
-        },
-        {
-          position: "Web Designer",
-          company: "Lynden",
-          date: "Jan 2018 - Apr 2018"
-        },
-        {
-          position: "Intern - Web Design",
-          company: "Lynden",
-          date: "Aug 2017 - Dec 2017"
+          position: "Professora",
+          company: "Centro de Educação Tecnológica Do Amazonas - CETAM",
+          date: "Abr 2015 - Agora"
         }
       ],
       education: [
         {
-          degree: "Bachelor of Science in Web Design and Development",
-          institution: "BYU-Idaho",
-          date: "Jan. 2016 - Apr. 2018"
+          degree: "Tecnico em administração",
+          institution: "Senac",
+          date: "2023 "
         },
         {
-          degree: "Computer Science",
-          institution: "Edmonds Community College",
-          date: "Sept. 2014 - Dec. 2015"
+          degree: "Computação em Nuvem",
+          institution: "Escola da Nuvem",
+          date: "2023"
         },
         {
-          degree: "High School",
-          institution: "Henry M. Jackson High School",
-          date: "Jan. 2013 - Jun. 2015"
+          degree: "Computação em Nuvem",
+          institution: "Fatec",
+          date: "2020"
+        },
+        {
+          degree: "Ensino Médio",
+          institution: "Escola Amazonense D. Pedro II",
+          date: "1996"
         }
       ],
       programmingSkills: [
         {
-          name: "HTML5",
+          name: "AWS",
           percent: 95
-        },
-        {
-          name: "CSS3 & SCSS",
-          percent: 90
-        },
-        {
-          name: "JavaScript",
-          percent: 60
-        },
-        {
-          name: "jQuery",
-          percent: 50
-        },
-        {
-          name: "JSON",
-          percent: 40
-        },
-        {
-          name: "PHP",
-          percent: 55
-        },
-        {
-          name: "MySQL",
-          percent: 40
         }
       ],
       certifications: [
         {
-          name: "Illustrator"
+          name: "Computação em Nuvem - Escola da Nuvem"
         },
         {
-          name: "Photoshop"
-        },
-        {
-          name: "InDesign"
-        },
-        {
-          name: "Dreamweaver"
+          name: "Computação em Nuvem - Fatec"
         }
       ],
       interests: [
         {
           iconClass: "art",
-          icon: "fas fa-dumbbell",
-          name: "Academia"
-        },
-        {
-          iconClass: "art",
-          icon: "fas fa-book",
-          name: "Books"
+          icon: "fas fa-laptop-code",
+          name: "Tecnologia"
         },
         {
           iconClass: "movies",
-          icon: "fas fa-film",
-          name: "Movies"
+          icon: "fas fa-book",
+          name: "Aprender coisas novas"
         },
         {
           iconClass: "music",
-          icon: "fas fa-headphones",
-          name: "Music"
-        },
-        {
-          iconClass: "games",
-          icon: "fas fa-gamepad",
-          name: "Games"
+          icon: "fas fa-language",
+          name: "Idiomas"
         }
       ],
-      pdfPath: "./assets/curriculo2.pdf"
+      pdfPath: "./assets/cvs/suzana.pdf"
     },
     {
       experience: [
         {
-          position: "Technical Consultant - Web Design",
-          company: "Fiserv",
-          date: "Apr 2018 - Now"
-        },
-        {
-          position: "Web Designer",
-          company: "Lynden",
-          date: "Jan 2018 - Apr 2018"
-        },
-        {
-          position: "Intern - Web Design",
-          company: "Lynden",
-          date: "Aug 2017 - Dec 2017"
+          position: "Jovem Aprendiz – Auxiliar de Marcenaria",
+          company: "COMERCIAL GOMES: Material de Construção",
+          date: "Fev 2018 - Out 2018"
         }
       ],
       education: [
         {
-          degree: "Bachelor of Science in Web Design and Development",
-          institution: "BYU-Idaho",
-          date: "Jan. 2016 - Apr. 2018"
-        },
-        {
-          degree: "Computer Science",
-          institution: "Edmonds Community College",
-          date: "Sept. 2014 - Dec. 2015"
-        },
-        {
-          degree: "High School",
-          institution: "Henry M. Jackson High School",
-          date: "Jan. 2013 - Jun. 2015"
+          degree: "Sistemas de Informação",
+          institution: "IFMA",
+          date: "Jan. 2021 - Agora"
         }
       ],
       programmingSkills: [
         {
-          name: "HTML5",
+          name: "JavaScript",
           percent: 95
         },
         {
-          name: "CSS3 & SCSS",
+          name: "Java",
           percent: 90
         },
         {
-          name: "JavaScript",
+          name: "HTML5",
           percent: 60
         },
         {
-          name: "jQuery",
+          name: "CSS3",
           percent: 50
         },
         {
-          name: "JSON",
+          name: "NodeJS",
           percent: 40
         },
         {
-          name: "PHP",
+          name: "MySql",
           percent: 55
         },
         {
-          name: "MySQL",
+          name: "Mongo DB",
+          percent: 40
+        },
+        {
+          name: "Git e Github",
+          percent: 40
+        },
+        {
+          name: "AWS",
           percent: 40
         }
       ],
       certifications: [
         {
-          name: "Illustrator"
-        },
-        {
-          name: "Photoshop"
-        },
-        {
-          name: "InDesign"
-        },
-        {
-          name: "Dreamweaver"
+          name: "Fundamentos de AWS, Escola da Nuvem – 2023"
         }
       ],
       interests: [
         {
           iconClass: "art",
-          icon: "fas fa-dumbbell",
-          name: "Academia"
+          icon: "fas fa-laptop-code",
+          name: "Tecnologia"
         },
-        {
-          iconClass: "art",
-          icon: "fas fa-book",
-          name: "Books"
-        },
-        {
-          iconClass: "movies",
-          icon: "fas fa-film",
-          name: "Movies"
-        },
-        {
-          iconClass: "music",
-          icon: "fas fa-headphones",
-          name: "Music"
-        },
-        {
-          iconClass: "games",
-          icon: "fas fa-gamepad",
-          name: "Games"
-        }
       ],
-      pdfPath: "./assets/curriculo1.pdf"
+      pdfPath: "./assets/cvs/MaikeSombraCV.pdf"
     },
     {
       experience: [
         {
-          position: "Technical Consultant - Web Design",
-          company: "Fiserv",
-          date: "Apr 2018 - Now"
+          position: "Analista de Suporte N2",
+          company: "Locaweb",
+          date: "Out 2022 - Agora"
         },
         {
-          position: "Web Designer",
-          company: "Lynden",
-          date: "Jan 2018 - Apr 2018"
+          position: "Analista de Suporte N1",
+          company: "Locaweb",
+          date: "Jun 2021 - Out 2022"
         },
         {
-          position: "Intern - Web Design",
-          company: "Lynden",
-          date: "Aug 2017 - Dec 2017"
+          position: "Auxiliar de Suporte e HelpDesk II",
+          company: "Centro Universitário São Camilo",
+          date: "Fev 2021 - Jun 2021"
+        },
+        {
+          position: "Auxiliar de Suporte e HelpDesk I",
+          company: "Centro Universitário São Camilo",
+          date: "Out 2019 - Jan 2021"
         }
       ],
       education: [
         {
-          degree: "Bachelor of Science in Web Design and Development",
-          institution: "BYU-Idaho",
-          date: "Jan. 2016 - Apr. 2018"
-        },
-        {
-          degree: "Computer Science",
-          institution: "Edmonds Community College",
-          date: "Sept. 2014 - Dec. 2015"
-        },
-        {
-          degree: "High School",
-          institution: "Henry M. Jackson High School",
-          date: "Jan. 2013 - Jun. 2015"
+          degree: "Tecnólogo em Gestão da Tecnologia da Informação",
+          institution: "Universidade Paulista",
+          date: "Jan. 2016 - Dez. 2017"
         }
       ],
       programmingSkills: [
@@ -492,180 +391,63 @@ document.addEventListener('DOMContentLoaded', function () {
           percent: 95
         },
         {
-          name: "CSS3 & SCSS",
+          name: "PHP",
           percent: 90
         },
         {
-          name: "JavaScript",
+          name: "MySQL",
           percent: 60
         },
         {
-          name: "jQuery",
+          name: "SQL Server",
           percent: 50
         },
         {
-          name: "JSON",
+          name: "PHPMYAdmin",
           percent: 40
         },
         {
-          name: "PHP",
+          name: "PostgreSQL",
           percent: 55
         },
         {
-          name: "MySQL",
+          name: "Kibana",
+          percent: 40
+        },
+        {
+          name: "Linux",
+          percent: 40
+        },
+        {
+          name: "AWS",
           percent: 40
         }
       ],
       certifications: [
         {
-          name: "Illustrator"
+          name: "Administração de PostgreSQL com alta performance -/ 4Linux"
         },
         {
-          name: "Photoshop"
+          name: "Administração MYSQL com alta performance e alta disponibilidade -/ 4Linux"
         },
         {
-          name: "InDesign"
+          name: "Fundamentos do SAP-/ KaSolution"
         },
         {
-          name: "Dreamweaver"
+          name: "Computação em Nuvem AWS/ - KaSolution"
+        },
+        {
+          name: "Computação em Nuvem AWS/ - Escola da Nuvem"
         }
       ],
       interests: [
         {
           iconClass: "art",
-          icon: "fas fa-dumbbell",
-          name: "Academia"
-        },
-        {
-          iconClass: "art",
-          icon: "fas fa-book",
-          name: "Books"
-        },
-        {
-          iconClass: "movies",
-          icon: "fas fa-film",
-          name: "Movies"
-        },
-        {
-          iconClass: "music",
-          icon: "fas fa-headphones",
-          name: "Music"
-        },
-        {
-          iconClass: "games",
-          icon: "fas fa-gamepad",
-          name: "Games"
+          icon: "fas fa-laptop-code",
+          name: "Tecnologia"
         }
       ],
-      pdfPath: "./assets/curriculo1.pdf"
-    },
-    {
-      experience: [
-        {
-          position: "Technical Consultant - Web Design",
-          company: "Fiserv",
-          date: "Apr 2018 - Now"
-        },
-        {
-          position: "Web Designer",
-          company: "Lynden",
-          date: "Jan 2018 - Apr 2018"
-        },
-        {
-          position: "Intern - Web Design",
-          company: "Lynden",
-          date: "Aug 2017 - Dec 2017"
-        }
-      ],
-      education: [
-        {
-          degree: "Bachelor of Science in Web Design and Development",
-          institution: "BYU-Idaho",
-          date: "Jan. 2016 - Apr. 2018"
-        },
-        {
-          degree: "Computer Science",
-          institution: "Edmonds Community College",
-          date: "Sept. 2014 - Dec. 2015"
-        },
-        {
-          degree: "High School",
-          institution: "Henry M. Jackson High School",
-          date: "Jan. 2013 - Jun. 2015"
-        }
-      ],
-      programmingSkills: [
-        {
-          name: "HTML5",
-          percent: 95
-        },
-        {
-          name: "CSS3 & SCSS",
-          percent: 90
-        },
-        {
-          name: "JavaScript",
-          percent: 60
-        },
-        {
-          name: "jQuery",
-          percent: 50
-        },
-        {
-          name: "JSON",
-          percent: 40
-        },
-        {
-          name: "PHP",
-          percent: 55
-        },
-        {
-          name: "MySQL",
-          percent: 40
-        }
-      ],
-      certifications: [
-        {
-          name: "Illustrator"
-        },
-        {
-          name: "Photoshop"
-        },
-        {
-          name: "InDesign"
-        },
-        {
-          name: "Dreamweaver"
-        }
-      ],
-      interests: [
-        {
-          iconClass: "art",
-          icon: "fas fa-dumbbell",
-          name: "Academia"
-        },
-        {
-          iconClass: "art",
-          icon: "fas fa-book",
-          name: "Books"
-        },
-        {
-          iconClass: "movies",
-          icon: "fas fa-film",
-          name: "Movies"
-        },
-        {
-          iconClass: "music",
-          icon: "fas fa-headphones",
-          name: "Music"
-        },
-        {
-          iconClass: "games",
-          icon: "fas fa-gamepad",
-          name: "Games"
-        }
-      ],
-      pdfPath: "./assets/curriculo1.pdf"
+      pdfPath: "./assets/cvs/FelipeSouzaCV.pdf"
     }
   ];
 
@@ -745,11 +527,11 @@ document.addEventListener('DOMContentLoaded', function () {
           <div class="linha"></div>
           <div class="base">
             <div class="about">
-              <h3>About Me</h3>
+              <h3>Sobre Mim</h3>
               ${data.descricao}
             </div>
             <div class="contact">
-              <h3>Contact Me</h3>
+              <h3>Contatos</h3>
               <div class="call">
                 <a href="tel:${data.telefone}">
                   <i class="fas fa-phone"></i>
@@ -768,15 +550,9 @@ document.addEventListener('DOMContentLoaded', function () {
                   <span>${data.email}</span>
                 </a>
               </div>
-              <div class="website">
-                <a href="${data.website}" target="_blank">
-                  <i class="fas fa-home"></i>
-                  <span>${data.website}</span>
-                </a>
-              </div>
             </div>
             <div class="follow">
-              <h3>Follow Me</h3>
+              <h3>Me Sigam</h3>
               <div class="box">
                 <a href="${data.instagram}" target="_blank">
                   <i class="fab fa-instagram"></i>
@@ -817,7 +593,7 @@ document.addEventListener('DOMContentLoaded', function () {
           <div class="func">
               <div class="func-first">
                   <div class="work">
-                      <h3><i class="fa fa-briefcase"></i>Experience</h3>
+                      <h3><i class="fa fa-briefcase"></i>Experiência</h3>
                       <ul>
                           ${data.experience.map((exp) => `
                             <li><span>${exp.position}</span><small>${exp.company}</small><small>${exp.date}</small></li>
@@ -825,7 +601,7 @@ document.addEventListener('DOMContentLoaded', function () {
                       </ul>
                   </div>
                   <div class="edu">
-                      <h3><i class="fa fa-graduation-cap"></i>Education</h3>
+                      <h3><i class="fa fa-graduation-cap"></i>Educação</h3>
                       <ul>
                           ${data.education.map((edu) => `
                             <li><span>${edu.degree}</span><small>${edu.institution}</small><small>${edu.date}</small></li>
@@ -835,7 +611,7 @@ document.addEventListener('DOMContentLoaded', function () {
               </div>
   
               <div class="skills-prog">
-                  <h3><i class="fas fa-code"></i>Programming Skills</h3>
+                  <h3><i class="fas fa-code"></i>Habilidades Técnicas</h3>
                   <ul>
                       ${data.programmingSkills.map((skill) => `
                         <li data-percent="${skill.percent}"><span>${skill.name}</span>
@@ -848,7 +624,7 @@ document.addEventListener('DOMContentLoaded', function () {
               </div>
   
               <div class="skills-soft">
-                  <h3><i class="fas fa-bezier-curve"></i>Courses and Certifications</h3>
+                  <h3><i class="fas fa-bezier-curve"></i>Cursos e Certificações</h3>
                   <ul>
                       ${data.certifications.map((cert) => `
                         <li><span>${cert.name}</span></li>
@@ -857,7 +633,7 @@ document.addEventListener('DOMContentLoaded', function () {
               </div>
   
               <div class="interests">
-                  <h3><i class="fas fa-star"></i>Interests</h3>
+                  <h3><i class="fas fa-star"></i>Interesses</h3>
                   <div class="interests-items">
                       ${data.interests.map((interest) => `
                         <div class="${interest.iconClass}"><i class="${interest.icon}"></i><span>${interest.name}</span></div>
@@ -904,6 +680,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 });
+
+
 
 
 
