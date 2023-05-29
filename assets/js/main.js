@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', function () {
           name: "Cloud"
         }
       ],
-      pdfPath: "./assets/curriculo1.pdf"
+      pdfPath: "./assets/cvs/NatanaeleCV.pdf"
     },
     {
       experience: [
